@@ -3,7 +3,8 @@ Processing ECG data during rest vs. activity
 
 **ECG 2 Heartbeat** | **ECG and Calculated Leads**
 :-:|:-:
-![ecg2_heartbeat](https://github.com/user-attachments/assets/d706574f-93c2-47c2-a2ec-19e5d268fb1b) | ![double_good](https://github.com/user-attachments/assets/4d43da07-3ed3-4f21-8517-1241ba297598)
+![ecg2_pqrst](https://github.com/user-attachments/assets/19105f26-dd93-4117-b710-f640532f4d4d) | ![double_good](https://github.com/user-attachments/assets/4d43da07-3ed3-4f21-8517-1241ba297598)
+
 
 All electrocardiography data was collected with four leads attached to the same person in different physical states. Three leads were placed on the ribs, one on the lowest rib on the left side, one on the second rib on the right side, and one on the second rib on the left side to triangulate a signal around the heart. The fourth lead was placed on the lowest rib on the right side and acted as a ground. 
 
